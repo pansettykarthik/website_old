@@ -16,7 +16,7 @@
 title: Karthik Pansetty
 email: karthikpansety@gmail.com
 description: "Karthik Pansetty portfolio"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://pansettykarthik.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  "pansettykarthik"
 
