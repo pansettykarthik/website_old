@@ -1,1 +1,1 @@
-http://pansetykarthik.github.io
+http://pansettykarthik.github.io
