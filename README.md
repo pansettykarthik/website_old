@@ -1,3 +1,3 @@
-<h1> Karthik Pansetty Portfolio</h1>
+# Karthik Pansetty's Personal Blog
 
-http://pansettykarthik.github.io
+Powered by [Hugo](https://gohugo.io) + [Academic Theme](https://themes.gohugo.io/academic/)
